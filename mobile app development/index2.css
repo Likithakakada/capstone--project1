@@ -1,0 +1,475 @@
+.a{
+	height: 5000px;
+	width: 1250px;
+	background-color:red ;
+}
+.b{
+	height:500px ;
+	width: 1250px;
+	background-color:blueviolet;
+}
+.strategy{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	border-color: 3px solid white;
+	margin-left: 50px;
+	float: left;
+	margin-bottom: 5px;
+}
+.uxdesign{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	border-color: 3px solid white;
+	float: right;
+	margin-right: 150px;
+	margin-bottom:5px;
+}
+.dev{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	border-color: 3px solid white;
+	float: left;
+	margin-left: 50px;
+	
+}
+.testing{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	border-color: 3px solid white;
+	float: right;
+	margin-right: 150px;	
+}
+.l{
+	height: 500px;
+	width: 625px;
+	background-color:darkviolet;
+	float: left;
+}
+.m{
+	height: 500px;
+	width: 625px;
+	background-color: yellow;
+
+	float:right;
+}
+img{
+	height: 500px;
+	width: 625px;
+	object-fit: cover;
+}
+.c{
+	height:500px ;
+	width: 1250px;
+	background-color: white;
+}
+.n{
+	height: 500px;
+	width: 625px;
+	background-color: lightcyan;
+	float:left;
+}
+img{
+	height:500px;
+	width: 625px;
+	object-fit: cover;
+}
+.o{
+	height: 500px;
+	width: 625px;
+	background-color: white;
+	float:right;
+}
+.o p{
+	margin:30px;
+	height:40px;
+	width: 120px;
+	border-radius:6px;
+	background-color: violet;
+	border-color: violet;
+	color: white;
+	text-align: center;
+}
+h1{
+   margin-left: 10px;
+}
+h4{
+	margin-left: 10px;
+}
+.app{
+	margin:30px;
+	height:70px;
+	width: 120px;
+	border-radius:6px;
+	background-color: violet;
+	border-color: violet;
+	color: white;
+	text-align: center;
+	float: left;
+}
+.play{
+	margin:30px;
+	height:70px;
+	width: 120px;
+	border-radius:6px;
+	background-color: violet;
+	border-color: violet;
+	color: white;
+	text-align: center;
+	float: right;
+	margin-right: 230px;
+}
+
+
+.d{
+	height:500px ;
+	width: 1250px;
+	background-color: violet;
+}
+.p{
+	height: 500px;
+	width:625px;
+	background-color: blueviolet;
+	float: left;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+
+h5{
+	margin:30px;
+	height:30px;
+	width: 120px;
+	border-radius:6px;
+	background-color: violet;
+	border-color: violet;
+	color: white;
+	text-align: center;
+    margin-left: 50px;
+	
+}
+
+.q{
+	height: 500px;
+	width:625px ;
+	background-color: green;
+	float: right;
+}
+img{
+	height: 500px;
+	width:625px ;
+	object-fit: cover;
+}
+.e{
+	height:500px ;
+	width: 1250px;
+	background-color: white;
+}
+.r{
+	height:150px;
+	width: 1250px;
+	background-color: burlywood;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+.s{
+	height:350px;
+	width: 1250px;
+	background-color: brown;
+}
+.celia{
+	width: 300px;
+	height: 250px;
+	background-color: white;
+	border-color: 3px solid white;
+	margin-left: 100px;
+	float: left;
+}
+.frank{
+	width: 300px;
+	height: 250px;
+	background-color: white;
+	border-color: 3px solid white;
+	float: right;
+	margin-right: 500px;
+}
+.nick{
+	width: 300px;
+	height: 250px;
+	background-color: white;
+	border-color: 2px solid white;
+	margin-left: 800px;
+
+
+}
+.john{
+
+	position: relative;
+	margin-bottom: 70px;
+}
+.f{
+	height:500px ;
+	width: 1250px;
+	background-color: violet;
+}
+.section-5{
+    width: 100%;
+    background-color: #250455;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section-5-heading{
+    color: #fff;
+    font-size: 48px;
+    margin: 40px 0px 15px 0px;
+}
+.section-5-description{
+    font-size: 18px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    width: 48%;
+    margin-bottom: 40px;
+}
+.bar-background{
+    background-color: #a37fdf;
+    width: 100%;
+    height: 200px;
+    margin-top: 150px;
+}
+.section-5-cards-container{
+    position: relative;
+    top: -200px;
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec-5-card{
+    width: 28%;
+    height: 500px;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: #fff;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+}
+.sec-5-card-img{
+    width: 250px;
+}
+.sec-5-card-heading{
+    font-size: 30px;
+    color: #a37fdf;
+}
+.sec-5-card-description{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+
+.g{
+	height:500px ;
+	width: 1250px;
+	background-color: white;
+}
+
+.button4{
+	margin:30px;
+	height:30px;
+	width: 120px;
+	border-radius:6px;
+	background-color: violet;
+	border-color: violet;
+	color: white;
+	text-align: center;
+	margin-left: 510px;
+}
+.credit{
+     
+     text-align: center;
+}
+p{
+	text-align: center;
+}
+.h{
+	height:500px ;
+	width: 1250px;
+	background-color: violet;
+}
+.section-7{
+    width: 100%;
+    background-color: #250455;
+    height: 170vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.vertical-bar{
+    width: 300px;
+    height: 150vh;
+    background-color: #a37fdf;
+    position: relative;
+    top: 70px;
+    left: -200px;
+}
+.sec-7-cards-container{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 150px;
+    
+}
+.sec-7-card{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+.portfolio-card{
+    width: 450px;
+    height: 300px;
+    background-color: #fff;
+    position: absolute;
+    padding: 20px;
+    border-radius: 10px;
+    top: 700px;
+    right: 200px;
+}
+.portfolio-heading{
+    font-size: 30px;
+    color: black;
+}
+.portfolio-description{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2;
+}
+.i{
+	height:700px ;
+	width: 1250px;
+	background-color: white;
+}
+.blank{
+	height: 350px;
+	width: 1250px;
+	background-color: white;
+
+}
+.ourway{
+	height: 350px;
+	width: 1250px;
+	background-color: white;
+}
+.podcast{
+	height:80px;
+	width: 1250px;
+	background-color: green;
+}
+.long{
+	height: 270px;
+	width: 1250px;
+	background-color: white;
+}
+.nine{
+	height: 270px;
+	width: 300px;
+	background-color: cyan;
+	float: left;
+
+}
+.zero{
+	height: 270px;
+	width: 300px;
+	background-color: yellow;
+	float: left;
+}
+.one{
+	height: 270px;
+	width: 300px;
+	background-color: red;
+	float: left;
+}
+.two{
+	height: 270px;
+	width: 300px;
+	background-color: blue;
+	float: right;
+	margin-right: 50px;
+}
+
+.j{
+	height:500px ;
+	width: 1250px;
+	background-color:#250455;
+}
+.get{
+	height:400px;
+	width: 600px;
+	background-color: violet;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+
+}
+.get h3{
+       text-align: center;
+}
+
+.level{
+height:400px;
+	width: 600px;
+	background-color: white;
+	float: right;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+.label{
+	margin-left: 20px;
+}
+.button8{
+	margin-top: 20px;
+	height:20px;
+	width: 120px;
+	border-radius:6px;
+	background-color: violet;
+	border-color: violet;
+	color: white;
+	text-align: center;
+	}
+.k{
+	height:300px ;
+	width: 1250px;
+	background-color: black;
+	color: white;
+}
+.likki{
+	color:violet;
+}
+.phone{
+	color: violet;
+}
+.best{
+	color: violet;
+}
